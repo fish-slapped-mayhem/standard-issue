@@ -8,8 +8,6 @@ A repository created from `standard-issue` arrives with the following:
 
 - A `.devcontainer/` configuration, suitable for opening in the editor of your choice (provided that choice is one of the two or three editors anyone actually uses). The configuration references a base image maintained separately, which means the image may be updated without disturbing this template, and this template may be updated without disturbing the image. Whether this separation will produce the harmony its designer envisioned remains to be seen.
 - A `/docs/` directory, pre-populated with the structure that documentation tends to want by the third week of a project. It is easier to delete sections that turn out to be unnecessary than to invent them later under deadline.
-- A `bootstrap` script, which retrieves the current Claude configuration — skills, instructions, and other accumulated wisdom — from its central repository. The script is intended to be run once, on first checkout. It may be run more than once, and is designed to behave reasonably when this happens.
-- This README, which should be replaced.
 
 ## How to use it
 

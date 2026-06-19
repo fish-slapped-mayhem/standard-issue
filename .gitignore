@@ -1,0 +1,435 @@
+###############################################################################
+# Python
+###############################################################################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Package managers / lock files
+# .python-version              # pyenv (uncomment for apps)
+# Pipfile.lock                # Pipfile.lock                # Pipfile.lock                # Pipfile.lock                # Pipfom# Pipfile.lock                # Pipfile.lock                # Pipfile.lock      # Pi     # Pipfile.lock                # Pipfile.lock                # Pipfile.lock    xi
+# Pipfile.lock                # Pipfil2
+# Pipfileheck# Pip linte# Pipfpy_cac# Pipfileheckon
+dmypydmypydmypydmypydmypydmypuffdmypye/
+dmypyn_dmypyn_d# Docudmytatdmypyn_dm_build/
+dmypypydmy /dmypyhodmypyyndmypyckpointd
+profilprofilprofilprofilpconfig.py
+
+# Django
+local_settings.py
+db.sqlidb3
+db.sqlite3-journal
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# Marimo
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# mkdocs
+/site
+
+# Abstra# Abstra# Abstra# Abstra# AbstCo# Abstra# Abstra# Abstra# Abstra# AbstCo# Abstra# Abstra########################################
+# Node / JavaScript / TypeScript
+###############################################################################
+
+# Dependencies
+node_modules/
+jspm_packages/
+bower_components/
+
+# Build outputs
+dist/
+out/
+build/
+.next/
+.nuxt/
+.output/
+.vite/
+.svelte-kit/
+storybook-static/
+
+# Package manager lock files (uncomment whichever you DO want to commit)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+# bun.lockb
+
+# Yarn v2+
+.yarn/
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yar!.yar!.yar!.yar!.yar!.yar!..*
+
+# Cac# Cac# 
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.turbo/
+.rollup.cache/
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+##Runtime
+.no.no.no.no.story
+npm-dnpm-dnog*
+yarn-debug.log*
+yaryaryror.log*
+pnpm-debug.logpnpm-na-debug.log*
+
+
+npm-debug/coverage
+.nyc_output/
+plplplplplplpport/
+test-rtest-rtest-rtes/test-rtesypress/screenshots/
+
+###############################################################################
+# Java
+###############################################################################
+
+# Compiled class files
+*.class
+
+# Package files
+*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.j*.jr.j*.j*.j*.j*.j*apper.properties
+build/
+target/target/target/tamvntarget/target/ties
+.mv.mvra.mv.mmaven-wrapper.ja.mv.mIDE
+.factor.factor.fea/
+.factor.factor.fr
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Virtual machine crash logs
+hshshshshshshshshshsidhshshshshs##hshshshshshshsh##hshshsh##############################################
+# Kotli# Kotl############################################### Kotli######################
+
+# Kotlin/JS
+kotlin-js-store/
+
+###############################################################################
+# Go# Go# Go# Go#################### Go# Go# Go# ### Go# Go# Go# Go#################
+
+# Binaries
+*.exe
+*.*.*.*.*.*.*
+******************ace
+go.work.sum
+
+# Module download cache
+/vendor/
+
+###############################################################################
+# C# / .NET
+###############################################################################
+
+# Build results
+[Dd]e[Dd]e[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/[Ll]oNE[Ll]ogs/[Ll]oNE[Ll]ogs/[Ll]oNE[Ll]ogs/[Ll]oson
+artifacts/
+**/Properties/launchSetti**/Properties/laun*.nupkg
+*.snupkg
+**/[**/[**/[**/[**/[**/[**/[**//build/
+*.nuget.props
+*.nuget.targets
+
+# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# Vis# V/
+**/PublishScripts/
+
+# ASP.NET Core
+**/wwwroot/lib/
+
+# Entity Framework migrations (uncomme# Entity Fred)
+# Migrations/
+
+###############################################################################
+######################################################################################
+
+# Gems / artifacts
+*.gem
+*.rbc
+
+# Test / coverage
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+
+# Version managers
+.ruby-version
+.ruby-gemset
+.rvmrc
+
+# Bundler
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# Capistrano
+/capistrano/
+
+# Rails
+/log/
+/public/system
+/public/uploads
+/tmp/
+/tmp/pids/
+/tmp/cache/
+/tmp/sockets/
+/storage/
+
+# Spring
+/spring/*.pid
+
+###############################################################################
+# Rust
+###############################################################################
+
+# Build artifacts
+debug/
+target/
+
+# Cargo lock (keep for binaries, may omit for libraries)
+# Cargo.lock
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# MSVC Windows builds
+*.pdb
+
+###############################################################################
+# OS / System
+###############################################################################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+###############################################################################
+# Editors / IDEs
+###############################################################################
+
+# Claude Code per-user local overrides — never committed
+.claude/settings.local.json
+
+# JetBrains (IntelliJ, GoLand, CLion, Rider, etc.)
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# Visual Studio Code (keep .vscode/ if sharing settings across the team)
+# .vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-snippets
+.history/
+*.vsix
+
+# Vim
+[._]*.s[a-v][a[._]*.s[a-v][a[._]*.s[a-v][a[._]*.s[a-v][a[._]*.s[a-v][a[._]*.s[a-v][a[._]*.s[.vim
+Sessionx.vim
+.netrwhist
+tags
+[._]*.un~
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.de/.emacs.de/.emlc/.emacs.de/.emt
+/.emacs\#/.emacs\lime Text/.emacs\#/.emacs\lime Text/.emacs\s.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+###############################################################################
+# Environments / secrets
+###############################################################################
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.envrc
+
+# Credentials and keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+secrets.*
+*secret*
+*credentials*
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
+*.pub
+!id_*.pub
+
+###############################################################################
+# Infrastructure / tooling
+###############################################################################
+
+# Redis
+*.rdb
+*.aof
+*.pid
+
+# RabbitMQ
+mnesiamnesiamnmq/
+rabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-datrabbitmq-dalorabbitmq-dlog
+override.toveveoverridf.json
+*_override.tf
+*_override.tf*_override.tf*_override.tf*_override.tfer
+.dockerignore
+
+# Ansible
+*.retry
